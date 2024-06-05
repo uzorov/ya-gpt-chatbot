@@ -26,6 +26,7 @@
 - Библиотека aiogram
 - Yandex GPT Lite API ключ (необходимо получить отдельно)
 
+
 ## Установка и настройка
 
 1. Установите необходимые зависимости, запустив следующую команду:
@@ -44,4 +45,9 @@
 ## Лицензия
 
 Этот проект лицензируется по лицензии [MIT](LICENSE).
+
+![digit_four](https://github.com/uzorov/ya-gpt-chatbot/assets/90005421/8ff1db46-1763-4545-ab7d-5ef990385f0a)
+![digit_four](https://github.com/uzorov/ya-gpt-chatbot/assets/90005421/8ff1db46-1763-4545-ab7d-5ef990385f0a)
+
+
 
